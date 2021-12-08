@@ -98,3 +98,17 @@ body {
     transform: scale(1);
   }
 }
+
+.action-btn {
+  margin-right: 5px;
+  padding: 5px;
+  font-size: 28px;
+  color: #fff;
+  background-color: transparent;
+  border: 0;
+  cursor: pointer;
+  transition: all 0.3s ease-in-out;
+}
+.action-btn:hover {
+  transform: scale(1.2);
+}
